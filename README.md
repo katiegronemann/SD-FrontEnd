@@ -1,10 +1,19 @@
 # The New StickD00dz
-This app is a website with several Web 3 (HandCash, AssetLayer, and RelayX) integrations for maximum fun.
-It requires a server running "SD-Server" for full operation.
-This was a product of my research in Web 3 integrations.
+
+This app is a website with several Web 3 integrations (HandCash, AssetLayer, and RelayX) for maximum fun. It requires a server running "SD-Server" for full operation. This project was a product of my research in Web 3 integrations, serving as a big sandbox.
+
+**Features include:**
+- Login via HandCash or RelayX wallets
+- View NFT holdings for either wallet
+- Functional RelayX marketplace (purchasing NFTs on-site)
+- Viewing of NFT attributes
+- Customizable profile page
+- Profile picture borders are reactive to NFT's rarity
+- Access-gated chat room for NFT owners only
+- Users can send RelayX-based altcoin to one another.
 
 ### `npm install`
-make sure you get your dependencies bud
+Installs required dependencies.
 
 ### `npm run start`
 
@@ -13,7 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
 
 ### `npm run build`
 
