@@ -1,0 +1,29 @@
+
+
+
+
+:root{
+    --rui-Modal__background: #ffffff;
+    --rui-Modal__padding-x: 1rem;
+    --rui-Modal__padding-y: 1rem;
+    --rui-Modal__box-shadow: none;
+    --rui-Modal__separator__width: 0.1vh;
+    --rui-Modal__separator__color: #a3a3a3;
+
+    --rui-Modal__header__gap: var(--rui-spacing-2);
+    --rui-Modal__outer-spacing--xs: var(--rui-spacing-2);
+    --rui-Modal__outer-spacing--sm: var(--rui-spacing-6);
+    --rui-Modal__footer__background: var(--rui-color-white);
+    --rui-Modal__footer__gap: var(--rui-spacing-2);
+    --rui-Modal__backdrop__background: rgb(0 0 0 / 50%);
+
+    --rui-Modal--auto__min-width: 18rem;
+    --rui-Modal--auto__max-width: 60rem;
+    --rui-Modal--small__width: 20rem;
+    --rui-Modal--medium__width: 40rem;
+    --rui-Modal--large__width: 65rem;
+    
+    --rui-Modal--fullscreen__width: 100%;
+    --rui-Modal--fullscreen__height: 100%;
+
+}

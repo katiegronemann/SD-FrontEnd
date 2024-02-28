@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65e47a8a.css",
+    "main.js": "/static/js/main.43b4be2c.js",
+    "static/js/787.924e9c8d.chunk.js": "/static/js/787.924e9c8d.chunk.js",
+    "static/media/test.png": "/static/media/test.f872deffae6ebe7f2ead.png",
+    "static/media/logo trans.png": "/static/media/logo trans.04cf0d08e23cd8446ae9.png",
+    "static/media/dood.jpg": "/static/media/dood.263e157467444a3b0917.jpg",
+    "static/media/hc.png": "/static/media/hc.bab9d311ce17765a6979.png",
+    "index.html": "/index.html",
+    "main.65e47a8a.css.map": "/static/css/main.65e47a8a.css.map",
+    "main.43b4be2c.js.map": "/static/js/main.43b4be2c.js.map",
+    "787.924e9c8d.chunk.js.map": "/static/js/787.924e9c8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e47a8a.css",
+    "static/js/main.43b4be2c.js"
+  ]
+}
